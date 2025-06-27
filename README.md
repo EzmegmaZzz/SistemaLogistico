@@ -51,4 +51,5 @@ Ejecutar el comando de Registros Permitidos, esto para poblar las tbalas Indepen
 
 ### **Paso 7**:
 para levantar el Proyecto ejecutar este Comando, comando que nos obtiene del NodeJs "npm run dev"
+y tambien php artisan serve, y direccionar el local host en /login  yy yyy y nose.. aña el usuario admin@preciouno.com su contra es 12345678 yy .mmm no recuerdo aña si chupamelapij
 
